@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FuPi/NR0HlrUiJNwdFz31eBSCS6jlxmyHbULfY/m1XQ=",
+  "Source": "JWTMiddleware",
+  "BasePath": "_content/JWTMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@JWTMiddleware_HostAddress = http://localhost:5211
+
+GET {{JWTMiddleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
